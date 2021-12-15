@@ -1,9 +1,9 @@
 {
-  "name": "dde-auth-service",
+  "name": "express-typescript-nodemon-template",
   "version": "0.0.1",
-  "description": "The authentication service for dde",
+  "description": "A simple express setup with typescript",
   "main": "dist/app.js",
-  "repository": "https://github.com/skkrimon/dde-auth-service",
+  "repository": "https://github.com/skkrimon/express-typescript-nodemon-template",
   "author": "skkrimon <simon-zapf@hotmail.de>",
   "license": "MIT",
   "private": true,

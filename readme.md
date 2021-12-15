@@ -1,7 +1,7 @@
 ## Start dev server
 
 ```console
-npm run start:nodemon
+$ npm run start:nodemon
 ```
 
 or
